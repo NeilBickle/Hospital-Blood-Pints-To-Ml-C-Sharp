@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Pints To ML\Pints To ML\bin\Debug\Pints To ML.exe.config
+C:\Users\User\source\repos\Pints To ML\Pints To ML\bin\Debug\Pints To ML.exe
+C:\Users\User\source\repos\Pints To ML\Pints To ML\bin\Debug\Pints To ML.pdb
+C:\Users\User\source\repos\Pints To ML\Pints To ML\obj\Debug\Pints To ML.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\Pints To ML\Pints To ML\obj\Debug\Pints To ML.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Pints To ML\Pints To ML\obj\Debug\Pints To ML.exe
+C:\Users\User\source\repos\Pints To ML\Pints To ML\obj\Debug\Pints To ML.pdb
